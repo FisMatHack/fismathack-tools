@@ -61,7 +61,7 @@ Lo siguiente esta en proceso...
 
 <h1>Ejecución de fismathack-tools mediante el archivo EXE(Windows)</h1>
 
-El archivo EXE no biene instalado por defecto por lo que lo puedes descargar desde: 
+El archivo EXE no viene instalado por defecto por lo que lo puedes descargar desde: 
 
 
 <h1>Ejecución de fismathack-tools mediante el código fuente</h1>
