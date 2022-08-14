@@ -59,7 +59,7 @@ Las consecuencias de dejarlo en cero es que hara mucho ruido.
 
 <h1>Apoyar al desarrollador</h1>
 
-Para apoyarme puedes donar desde paypal:paypal.me/fismathacktools
+Para contribuir en el desarrollo de fismathack-tools puedes donar desde paypal:paypal.me/fismathacktools
  
 O
 
