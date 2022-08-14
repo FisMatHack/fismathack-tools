@@ -57,22 +57,14 @@ En penultimo lugar nos pide si será guardado en un archivo, en este caso coloca
 En ultimo lugar nos pide un tiempo de espera por cada solicitud.
 Las consecuencias de dejarlo en cero es que hara mucho ruido.
 
-Lo siguiente esta en proceso...
+<h1>Apoyar al desarrollador</h1>
 
-<h1>Ejecución de fismathack-tools mediante el archivo EXE(Windows)</h1>
+Para apoyarme puedes donar desde paypal:paypal.me/fismathacktools
+ 
+O
 
-El archivo EXE no viene instalado por defecto por lo que lo puedes descargar desde: 
+puedes contactarme a fismathack1@gmail.com para otra forma de pago.
 
 
-<h1>Ejecución de fismathack-tools mediante el código fuente</h1>
 
-En caso de que cuentes con una Mac OS u otro sistema operativo, puedes descargar el código fuente de la GUI desde:
-
-La configuración y proceso es casi identico a "Ejecución de fismathack-tools mediante el archivo EXE(Windows)".
-
-Al tener el código instalado tienes que ejecutar el archivo.
-
-fismathack-tools-GUI-code 
-
-python fismathack-tools-GUI-code
-
+Gracias por leer la documentación y feliz hacking.
