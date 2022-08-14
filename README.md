@@ -57,7 +57,7 @@ En penultimo lugar nos pide si será guardado en un archivo, en este caso coloca
 En ultimo lugar nos pide un tiempo de espera por cada solicitud.
 Las consecuencias de dejarlo en cero es que hara mucho ruido.
 
-<h1>Apoyar al desarrollador</h1>
+<h1>Contribuir el el desarrollo de fismathack-tools</h1>
 
 Para contribuir en el desarrollo de fismathack-tools puedes donar desde paypal:paypal.me/fismathacktools
  
